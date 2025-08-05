@@ -33,5 +33,5 @@
 </table>
 <hr style="background:transparent;">
 <blockquote>
-  <b>Note:</b> This table tracks your Python learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
+  <b>Note:</b> This table tracks your Power BI learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
 </blockquote>
