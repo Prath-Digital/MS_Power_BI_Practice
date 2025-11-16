@@ -1,0 +1,501 @@
+ProductID,ProductName,ProductCategory,Supplier,UnitCost,RetailPrice,ReorderLevel,StockQuantity,SupplierRating
+PROD-001,Smartphone Pro 1,Electronics,TechGadget Inc.,419.99,699.99,25,156,4.8
+PROD-002,Office Chair Elite 2,Furniture,HomeStyle Co.,89.99,149.99,15,78,4.2
+PROD-003,Winter Jacket Premium 3,Clothing,FashionCo Ltd.,47.99,79.99,30,234,4.7
+PROD-004,Wireless Headphones Deluxe 4,Electronics,TechGadget Inc.,53.99,89.99,20,189,4.5
+PROD-005,Running Shoes Standard 5,Sports,SportLife Corp.,35.99,59.99,35,167,4.4
+PROD-006,Desk Lamp Basic 6,Home Goods,HomeStyle Co.,20.99,34.99,40,145,4.1
+PROD-007,Coffee Maker Advanced 7,Home Goods,KitchenPro Ltd.,29.99,49.99,20,198,4.6
+PROD-008,Yoga Mat Ultra 8,Sports,SportLife Corp.,14.99,24.99,50,223,4.3
+PROD-009,Bluetooth Speaker Max 9,Electronics,TechGadget Inc.,23.99,39.99,30,176,4.0
+PROD-010,Backpack Lite 10,Clothing,FashionCo Ltd.,26.99,44.99,25,134,4.5
+PROD-011,Monitor Pro 11,Electronics,TechGadget Inc.,119.99,199.99,15,89,4.7
+PROD-012,Bookshelf Elite 12,Furniture,HomeStyle Co.,53.99,89.99,20,112,4.2
+PROD-013,T-Shirt Premium 13,Clothing,FashionCo Ltd.,11.99,19.99,100,456,4.4
+PROD-014,Basketball Deluxe 14,Sports,SportLife Corp.,17.99,29.99,40,167,4.6
+PROD-015,Kitchen Set Standard 15,Home Goods,KitchenPro Ltd.,47.99,79.99,15,98,4.8
+PROD-016,Laptop Basic 16,Electronics,Global Supplies,539.99,899.99,10,45,4.3
+PROD-017,Dining Table Advanced 17,Furniture,OfficeWorks,179.99,299.99,8,34,4.1
+PROD-018,Jeans Ultra 18,Clothing,Premium Brands,41.99,69.99,40,278,4.5
+PROD-019,Football Max 19,Sports,Fitness First,23.99,39.99,35,156,4.2
+PROD-020,Vase Lite 20,Home Goods,Quality Goods Co.,17.99,29.99,50,234,4.4
+PROD-021,Novel Pro 21,Books,BookWorld,8.99,14.99,80,345,4.7
+PROD-022,Lipstick Elite 22,Beauty,Cosmetics Central,11.99,19.99,60,289,4.5
+PROD-023,Action Figure Premium 23,Toys,Toy World,14.99,24.99,45,198,4.3
+PROD-024,Tire Deluxe 24,Automotive,AutoParts Direct,71.99,119.99,20,112,4.6
+PROD-025,Necklace Standard 25,Jewelry,Jewelry Masters,29.99,49.99,30,145,4.8
+PROD-026,Vitamins Basic 26,Health,HealthPlus,17.99,29.99,50,267,4.4
+PROD-027,Cereal Advanced 27,Grocery,Grocery Giant,4.49,7.49,100,567,4.2
+PROD-028,Notebook Ultra 28,Office Supplies,OfficeWorks,5.99,9.99,80,345,4.5
+PROD-029,Dog Food Max 29,Pet Supplies,Pet Paradise,23.99,39.99,40,234,4.6
+PROD-030,Diapers Lite 30,Baby Products,Baby Care Co.,35.99,59.99,60,189,4.7
+PROD-031,Hammer Pro 31,Tools,Tool Time,11.99,19.99,50,278,4.3
+PROD-032,Guitar Elite 32,Music,Music World,119.99,199.99,15,67,4.8
+PROD-033,DVD Premium 33,Movies,Movie Mania,8.99,14.99,70,312,4.4
+PROD-034,Game Console Deluxe 34,Video Games,Game Zone,299.99,499.99,8,23,4.9
+PROD-035,Software Standard 35,Software,Software Solutions,41.99,69.99,25,156,4.5
+PROD-036,Refrigerator Basic 36,Appliances,Appliance Pro,359.99,599.99,5,18,4.7
+PROD-037,Tent Advanced 37,Outdoor,Outdoor Living,89.99,149.99,12,45,4.4
+PROD-038,Shovel Ultra 38,Gardening,Garden Glory,17.99,29.99,40,167,4.2
+PROD-039,Dumbbell Set Max 39,Fitness,Fitness First,71.99,119.99,20,89,4.6
+PROD-040,Paint Set Lite 40,Art Supplies,Artistic Creations,23.99,39.99,30,178,4.5
+PROD-041,Yarn Pro 41,Craft Materials,Craft Corner,8.99,14.99,60,234,4.3
+PROD-042,Balloons Elite 42,Party Supplies,Party Time,5.99,9.99,80,456,4.4
+PROD-043,Wire Premium 43,Electrical,Electrical Experts,11.99,19.99,50,189,4.6
+PROD-044,Pipe Fitting Deluxe 44,Plumbing,Plumbing Pros,8.99,14.99,70,267,4.3
+PROD-045,Nails Standard 45,Hardware,Hardware Hub,4.49,7.49,100,678,4.2
+PROD-046,Pen Set Basic 46,Stationery,Stationery Store,11.99,19.99,60,345,4.5
+PROD-047,Watch Advanced 47,Watches,Watch World,89.99,149.99,25,112,4.8
+PROD-048,Sneakers Ultra 48,Shoes,Shoe Palace,53.99,89.99,35,234,4.6
+PROD-049,Handbag Max 49,Bags,Bag Boutique,71.99,119.99,20,98,4.7
+PROD-050,Sunglasses Lite 50,Accessories,Accessory Alley,29.99,49.99,40,167,4.4
+PROD-051,Foundation Pro 51,Cosmetics,Cosmetics Central,23.99,39.99,45,189,4.5
+PROD-052,Perfume Elite 52,Fragrances,Fragrance Factory,35.99,59.99,30,134,4.8
+PROD-053,Blender Premium 53,Kitchenware,Kitchen King,41.99,69.99,25,156,4.6
+PROD-054,Comforter Deluxe 54,Bedding,Bedding Boutique,53.99,89.99,20,112,4.4
+PROD-055,Towel Set Standard 55,Bath,Bath Essentials,17.99,29.99,50,278,4.5
+PROD-056,Chandelier Basic 56,Lighting,Lighting Luxe,89.99,149.99,15,67,4.7
+PROD-057,Wall Art Advanced 57,Decor,Decor Dreams,35.99,59.99,25,145,4.3
+PROD-058,Pasta Ultra 58,Food,Food Market,3.59,5.99,120,789,4.2
+PROD-059,Juice Max 59,Beverages,Beverage Barn,4.49,7.49,90,456,4.4
+PROD-060,Chips Lite 60,Snacks,Snack Attack,2.69,4.49,150,567,4.3
+PROD-061,Cleaner Pro 61,Cleaning Supplies,Clean Pro,8.99,14.99,60,234,4.5
+PROD-062,Shampoo Elite 62,Personal Care,Personal Care Plus,11.99,19.99,70,345,4.6
+PROD-063,Bandages Premium 63,Medical Supplies,Medical Supplies,5.99,9.99,80,456,4.4
+PROD-064,Textbook Deluxe 64,Educational,Educational,35.99,59.99,40,178,4.7
+PROD-065,Tablet Standard 65,Electronics,TechGadget Inc.,239.99,399.99,18,56,4.6
+PROD-066,Sofa Basic 66,Furniture,HomeStyle Co.,299.99,499.99,6,23,4.3
+PROD-067,Coat Advanced 67,Clothing,FashionCo Ltd.,59.99,99.99,25,167,4.7
+PROD-068,Tennis Racket Ultra 68,Sports,SportLife Corp.,41.99,69.99,30,145,4.5
+PROD-069,Rug Max 69,Home Goods,HomeStyle Co.,71.99,119.99,15,89,4.4
+PROD-070,Cookbook Lite 70,Books,BookWorld,11.99,19.99,55,234,4.6
+PROD-071,Mascara Pro 71,Beauty,Cosmetics Central,14.99,24.99,65,278,4.5
+PROD-072,Doll Elite 72,Toys,Toy World,17.99,29.99,40,189,4.4
+PROD-073,Battery Premium 73,Automotive,AutoParts Direct,41.99,69.99,35,156,4.7
+PROD-074,Bracelet Deluxe 74,Jewelry,Jewelry Masters,23.99,39.99,45,167,4.8
+PROD-075,Supplements Standard 75,Health,HealthPlus,26.99,44.99,60,234,4.5
+PROD-076,Bread Basic 76,Grocery,Grocery Giant,2.99,4.99,200,789,4.3
+PROD-077,Stapler Advanced 77,Office Supplies,OfficeWorks,5.99,9.99,75,345,4.4
+PROD-078,Cat Food Ultra 78,Pet Supplies,Pet Paradise,19.99,33.99,45,198,4.6
+PROD-079,Baby Formula Max 79,Baby Products,Baby Care Co.,29.99,49.99,55,167,4.7
+PROD-080,Screwdriver Lite 80,Tools,Tool Time,8.99,14.99,65,278,4.3
+PROD-081,Piano Pro 81,Music,Music World,599.99,999.99,3,12,4.9
+PROD-082,Blu-ray Elite 82,Movies,Movie Mania,11.99,19.99,60,234,4.4
+PROD-083,Controller Premium 83,Video Games,Game Zone,35.99,59.99,35,156,4.6
+PROD-084,Antivirus Deluxe 84,Software,Software Solutions,29.99,49.99,40,178,4.5
+PROD-085,Microwave Standard 85,Appliances,Appliance Pro,89.99,149.99,12,45,4.7
+PROD-086,Sleeping Bag Basic 86,Outdoor,Outdoor Living,41.99,69.99,25,134,4.4
+PROD-087,Plants Advanced 87,Gardening,Garden Glory,14.99,24.99,50,267,4.3
+PROD-088,Exercise Bike Ultra 88,Fitness,Fitness First,179.99,299.99,8,34,4.6
+PROD-089,Canvas Max 89,Art Supplies,Artistic Creations,17.99,29.99,40,189,4.5
+PROD-090,Beads Lite 90,Craft Materials,Craft Corner,5.99,9.99,85,456,4.4
+PROD-091,Tablecloth Pro 91,Party Supplies,Party Time,11.99,19.99,55,234,4.3
+PROD-092,Switch Elite 92,Electrical,Electrical Experts,8.99,14.99,65,278,4.6
+PROD-093,Faucet Max 93,Plumbing,Plumbing Pros,35.99,59.99,25,145,4.4
+PROD-094,Screws Deluxe 94,Hardware,Hardware Hub,3.59,5.99,150,789,4.2
+PROD-095,Marker Set Standard 95,Stationery,Stationery Store,8.99,14.99,70,345,4.5
+PROD-096,Smartwatch Basic 96,Watches,Watch World,119.99,199.99,20,78,4.7
+PROD-097,Boots Advanced 97,Shoes,Shoe Palace,65.99,109.99,30,167,4.6
+PROD-098,Backpack Ultra 98,Bags,Bag Boutique,41.99,69.99,35,156,4.5
+PROD-099,Belt Max 99,Accessories,Accessory Alley,17.99,29.99,60,234,4.4
+PROD-100,Eyeshadow Lite 100,Cosmetics,Cosmetics Central,14.99,24.99,55,189,4.5
+PROD-101,Tablet Pro 101,Electronics,Global Supplies,299.99,499.99,12,34,4.4
+PROD-102,Bookshelf Elite 102,Furniture,OfficeWorks,65.99,109.99,18,67,4.2
+PROD-103,Shirt Premium 103,Clothing,Premium Brands,23.99,39.99,45,278,4.6
+PROD-104,Basketball Deluxe 104,Sports,Fitness First,26.99,44.99,40,189,4.5
+PROD-105,Clock Standard 105,Home Goods,Quality Goods Co.,29.99,49.99,30,145,4.4
+PROD-106,Journal Basic 106,Books,BookWorld,7.49,12.49,70,345,4.7
+PROD-107,Blush Advanced 107,Beauty,Cosmetics Central,12.99,21.99,60,234,4.5
+PROD-108,Puzzle Ultra 108,Toys,Toy World,11.99,19.99,50,198,4.4
+PROD-109,Oil Filter Max 109,Automotive,AutoParts Direct,17.99,29.99,35,167,4.6
+PROD-110,Earrings Lite 110,Jewelry,Jewelry Masters,19.99,33.99,55,178,4.8
+PROD-111,Protein Powder Pro 111,Health,HealthPlus,35.99,59.99,40,156,4.5
+PROD-112,Milk Elite 112,Grocery,Grocery Giant,3.99,6.65,120,567,4.3
+PROD-113,Folder Premium 113,Office Supplies,OfficeWorks,4.49,7.49,90,456,4.4
+PROD-114,Bird Seed Deluxe 114,Pet Supplies,Pet Paradise,14.99,24.99,45,234,4.6
+PROD-115,Baby Clothes Standard 115,Baby Products,Baby Care Co.,17.99,29.99,65,278,4.7
+PROD-116,Wrench Basic 116,Tools,Tool Time,14.99,24.99,55,189,4.3
+PROD-117,Drums Advanced 117,Music,Music World,299.99,499.99,5,23,4.8
+PROD-118,Documentary Ultra 118,Movies,Movie Mania,9.99,16.65,65,312,4.4
+PROD-119,Game Max 119,Video Games,Game Zone,41.99,69.99,40,178,4.6
+PROD-120,Office Suite Lite 120,Software,Software Solutions,59.99,99.99,25,134,4.5
+PROD-121,Smartphone Ultra 121,Electronics,TechGadget Inc.,359.99,599.99,8,29,4.7
+PROD-122,Desk Elite 122,Furniture,HomeStyle Co.,119.99,199.99,12,45,4.3
+PROD-123,Sweater Premium 123,Clothing,FashionCo Ltd.,35.99,59.99,35,234,4.6
+PROD-124,Golf Club Deluxe 124,Sports,SportLife Corp.,89.99,149.99,15,78,4.5
+PROD-125,Mirror Standard 125,Home Goods,HomeStyle Co.,41.99,69.99,25,145,4.4
+PROD-126,Planner Basic 126,Books,BookWorld,10.49,17.49,60,289,4.7
+PROD-127,Concealer Advanced 127,Beauty,Cosmetics Central,15.99,26.65,55,234,4.5
+PROD-128,Building Blocks Ultra 128,Toys,Toy World,26.99,44.99,40,189,4.4
+PROD-129,Brake Pad Max 129,Automotive,AutoParts Direct,29.99,49.99,30,156,4.6
+PROD-130,Ring Lite 130,Jewelry,Jewelry Masters,41.99,69.99,35,145,4.8
+PROD-131,First Aid Kit Pro 131,Health,HealthPlus,23.99,39.99,45,178,4.5
+PROD-132,Eggs Elite 132,Grocery,Grocery Giant,4.99,8.32,150,678,4.3
+PROD-133,Calculator Premium 133,Office Supplies,OfficeWorks,11.99,19.99,50,234,4.6
+PROD-134,Aquarium Deluxe 134,Pet Supplies,Pet Paradise,53.99,89.99,20,98,4.7
+PROD-135,Baby Bottle Standard 135,Baby Products,Baby Care Co.,8.99,14.99,75,345,4.6
+PROD-136,Drill Basic 136,Tools,Tool Time,35.99,59.99,25,134,4.4
+PROD-137,Violin Advanced 137,Music,Music World,179.99,299.99,8,34,4.8
+PROD-138,Comedy Ultra 138,Movies,Movie Mania,8.99,14.99,70,312,4.4
+PROD-139,Headset Max 139,Video Games,Game Zone,53.99,89.99,30,167,4.6
+PROD-140,Photo Editor Lite 140,Software,Software Solutions,35.99,59.99,35,156,4.5
+PROD-141,Toaster Pro 141,Appliances,Appliance Pro,41.99,69.99,20,89,4.7
+PROD-142,Backpack Elite 142,Outdoor,Outdoor Living,47.99,79.99,25,112,4.4
+PROD-143,Fertilizer Premium 143,Gardening,Garden Glory,11.99,19.99,60,267,4.3
+PROD-144,Yoga Block Deluxe 144,Fitness,Fitness First,8.99,14.99,70,234,4.5
+PROD-145,Sketchbook Standard 145,Art Supplies,Artistic Creations,10.49,17.49,55,189,4.6
+PROD-146,Thread Basic 146,Craft Materials,Craft Corner,4.49,7.49,95,456,4.4
+PROD-147,Decorations Advanced 147,Party Supplies,Party Time,14.99,24.99,50,234,4.3
+PROD-148,Outlet Ultra 148,Electrical,Electrical Experts,5.99,9.99,75,278,4.6
+PROD-149,Toilet Max 149,Plumbing,Plumbing Pros,89.99,149.99,10,45,4.4
+PROD-150,Bolts Lite 150,Hardware,Hardware Hub,2.99,4.98,180,789,4.2
+PROD-151,Digital Camera Pro 151,Electronics,Global Supplies,179.99,299.99,15,67,4.5
+PROD-152,Bed Frame Elite 152,Furniture,HomeStyle Co.,149.99,249.99,10,45,4.3
+PROD-153,Jacket Premium 153,Clothing,Premium Brands,47.99,79.99,30,189,4.6
+PROD-154,Baseball Deluxe 154,Sports,SportLife Corp.,14.99,24.99,45,234,4.5
+PROD-155,Curtains Standard 155,Home Goods,Quality Goods Co.,35.99,59.99,25,156,4.4
+PROD-156,Biography Basic 156,Books,BookWorld,12.99,21.65,55,278,4.7
+PROD-157,Face Mask Advanced 157,Beauty,Cosmetics Central,8.99,14.99,70,345,4.5
+PROD-158,Robot Ultra 158,Toys,Toy World,35.99,59.99,35,167,4.4
+PROD-159,Car Wax Max 159,Automotive,AutoParts Direct,17.99,29.99,40,178,4.6
+PROD-160,Watch Lite 160,Jewelry,Jewelry Masters,59.99,99.99,25,112,4.8
+PROD-161,Medicine Pro 161,Health,HealthPlus,19.99,33.32,50,234,4.5
+PROD-162,Cheese Elite 162,Grocery,Grocery Giant,6.99,11.65,80,456,4.3
+PROD-163,Binder Premium 163,Office Supplies,OfficeWorks,7.49,12.49,65,345,4.4
+PROD-164,Fish Food Deluxe 164,Pet Supplies,Pet Paradise,9.99,16.65,55,267,4.6
+PROD-165,Pacifier Standard 165,Baby Products,Baby Care Co.,5.99,9.99,85,456,4.7
+PROD-166,Saw Basic 166,Tools,Tool Time,23.99,39.99,40,189,4.3
+PROD-167,Saxophone Advanced 167,Music,Music World,239.99,399.99,6,23,4.8
+PROD-168,Horror Ultra 168,Movies,Movie Mania,10.49,17.49,60,289,4.4
+PROD-169,Console Game Max 169,Video Games,Game Zone,47.99,79.99,35,156,4.6
+PROD-170,Graphics Lite 170,Software,Software Solutions,71.99,119.99,20,89,4.5
+PROD-171,Dishwasher Pro 171,Appliances,Appliance Pro,299.99,499.99,5,18,4.7
+PROD-172,Lantern Elite 172,Outdoor,Outdoor Living,23.99,39.99,30,145,4.4
+PROD-173,Seeds Premium 173,Gardening,Garden Glory,6.99,11.65,75,456,4.3
+PROD-174,Resistance Bands Deluxe 174,Fitness,Fitness First,11.99,19.99,60,234,4.5
+PROD-175,Easel Standard 175,Art Supplies,Artistic Creations,29.99,49.99,25,134,4.6
+PROD-176,Fabric Basic 176,Craft Materials,Craft Corner,7.49,12.49,70,345,4.4
+PROD-177,Candles Advanced 177,Party Supplies,Party Time,8.99,14.99,65,278,4.3
+PROD-178,Circuit Breaker Ultra 178,Electrical,Electrical Experts,14.99,24.99,45,189,4.6
+PROD-179,Sink Max 179,Plumbing,Plumbing Pros,65.99,109.99,15,78,4.4
+PROD-180,Hinges Lite 180,Hardware,Hardware Hub,4.99,8.32,120,567,4.2
+PROD-181,Scanner Pro 181,Electronics,TechGadget Inc.,89.99,149.99,12,45,4.6
+PROD-182,Nightstand Elite 182,Furniture,HomeStyle Co.,41.99,69.99,20,98,4.3
+PROD-183,Dress Premium 183,Clothing,FashionCo Ltd.,35.99,59.99,35,167,4.6
+PROD-184,Soccer Ball Deluxe 184,Sports,SportLife Corp.,19.99,33.32,40,178,4.5
+PROD-185,Pillow Standard 185,Home Goods,HomeStyle Co.,14.99,24.99,50,234,4.4
+PROD-186,Poetry Basic 186,Books,BookWorld,9.99,16.65,65,312,4.7
+PROD-187,Moisturizer Advanced 187,Beauty,Cosmetics Central,17.99,29.99,55,234,4.5
+PROD-188,Car Toy Ultra 188,Toys,Toy World,11.99,19.99,50,198,4.4
+PROD-189,Spark Plug Max 189,Automotive,AutoParts Direct,8.99,14.99,70,267,4.6
+PROD-190,Anklet Lite 190,Jewelry,Jewelry Masters,14.99,24.99,60,189,4.8
+PROD-191,Thermometer Pro 191,Health,HealthPlus,11.99,19.99,65,278,4.5
+PROD-192,Yogurt Elite 192,Grocery,Grocery Giant,4.49,7.49,110,567,4.3
+PROD-193,Envelopes Premium 193,Office Supplies,OfficeWorks,6.99,11.65,85,456,4.4
+PROD-194,Hamster Cage Deluxe 194,Pet Supplies,Pet Paradise,35.99,59.99,25,134,4.6
+PROD-195,Baby Monitor Standard 195,Baby Products,Baby Care Co.,47.99,79.99,30,145,4.7
+PROD-196,Pliers Basic 196,Tools,Tool Time,9.99,16.65,60,234,4.3
+PROD-197,Trumpet Advanced 197,Music,Music World,149.99,249.99,8,34,4.8
+PROD-198,Romance Ultra 198,Movies,Movie Mania,9.99,16.65,70,312,4.4
+PROD-199,VR Headset Max 199,Video Games,Game Zone,119.99,199.99,15,67,4.6
+PROD-200,Database Lite 200,Software,Software Solutions,89.99,149.99,18,56,4.5
+PROD-201,Air Conditioner Pro 201,Appliances,Appliance Pro,419.99,699.99,4,16,4.7
+PROD-202,Camping Stove Elite 202,Outdoor,Outdoor Living,35.99,59.99,20,89,4.4
+PROD-203,Watering Can Premium 203,Gardening,Garden Glory,8.99,14.99,65,278,4.3
+PROD-204,Kettlebell Deluxe 204,Fitness,Fitness First,23.99,39.99,45,189,4.5
+PROD-205,Watercolors Standard 205,Art Supplies,Artistic Creations,14.99,24.99,55,234,4.6
+PROD-206,Glue Basic 206,Craft Materials,Craft Corner,5.99,9.99,90,456,4.4
+PROD-207,Party Hats Advanced 207,Party Supplies,Party Time,6.99,11.65,75,345,4.3
+PROD-208,Extension Cord Ultra 208,Electrical,Electrical Experts,11.99,19.99,50,234,4.6
+PROD-209,Shower Head Max 209,Plumbing,Plumbing Pros,23.99,39.99,30,156,4.4
+PROD-210,Nuts and Bolts Lite 210,Hardware,Hardware Hub,5.99,9.99,130,567,4.2
+PROD-211,Projector Pro 211,Electronics,Global Supplies,179.99,299.99,10,45,4.5
+PROD-212,Coffee Table Elite 212,Furniture,OfficeWorks,71.99,119.99,15,67,4.3
+PROD-213,Shorts Premium 213,Clothing,Premium Brands,19.99,33.32,45,234,4.6
+PROD-214,Skateboard Deluxe 214,Sports,Fitness First,41.99,69.99,25,145,4.5
+PROD-215,Storage Box Standard 215,Home Goods,Quality Goods Co.,17.99,29.99,40,189,4.4
+PROD-216,Science Book Basic 216,Books,BookWorld,15.99,26.65,50,267,4.7
+PROD-217,Sunscreen Advanced 217,Beauty,Cosmetics Central,12.99,21.65,60,234,4.5
+PROD-218,Plush Toy Ultra 218,Toys,Toy World,14.99,24.99,55,198,4.4
+PROD-219,Windshield Wipers Max 219,Automotive,AutoParts Direct,19.99,33.32,35,167,4.6
+PROD-220,Cufflinks Lite 220,Jewelry,Jewelry Masters,29.99,49.99,40,156,4.8
+PROD-221,Blood Pressure Monitor Pro 221,Health,HealthPlus,35.99,59.99,30,145,4.5
+PROD-222,Fruit Elite 222,Grocery,Grocery Giant,5.99,9.98,140,678,4.3
+PROD-223,Paper Clips Premium 223,Office Supplies,OfficeWorks,3.59,5.99,120,789,4.4
+PROD-224,Rabbit Food Deluxe 224,Pet Supplies,Pet Paradise,12.99,21.65,50,234,4.6
+PROD-225,Baby Carrier Standard 225,Baby Products,Baby Care Co.,41.99,69.99,25,134,4.7
+PROD-226,Level Basic 226,Tools,Tool Time,17.99,29.99,45,189,4.3
+PROD-227,Flute Advanced 227,Music,Music World,89.99,149.99,12,45,4.8
+PROD-228,Action Ultra 228,Movies,Movie Mania,11.99,19.99,65,289,4.4
+PROD-229,Gaming Mouse Max 229,Video Games,Game Zone,29.99,49.99,40,178,4.6
+PROD-230,Video Editor Lite 230,Software,Software Solutions,47.99,79.99,30,156,4.5
+PROD-231,Washing Machine Pro 231,Appliances,Appliance Pro,299.99,499.99,5,18,4.7
+PROD-232,Hiking Boots Elite 232,Outdoor,Outdoor Living,65.99,109.99,25,112,4.4
+PROD-233,Lawn Mower Premium 233,Gardening,Garden Glory,149.99,249.99,8,34,4.3
+PROD-234,Jump Rope Deluxe 234,Fitness,Fitness First,8.99,14.99,70,267,4.5
+PROD-235,Clay Standard 235,Art Supplies,Artistic Creations,11.99,19.99,60,234,4.6
+PROD-236,Ribbon Basic 236,Craft Materials,Craft Corner,4.49,7.49,95,456,4.4
+PROD-237,Confetti Advanced 237,Party Supplies,Party Time,7.49,12.49,80,345,4.3
+PROD-238,Light Bulb Ultra 238,Electrical,Electrical Experts,6.99,11.65,85,456,4.6
+PROD-239,Water Heater Max 239,Plumbing,Plumbing Pros,179.99,299.99,6,23,4.4
+PROD-240,Sandpaper Lite 240,Hardware,Hardware Hub,3.99,6.65,110,567,4.2
+PROD-241,Smart Home Hub Pro 241,Electronics,TechGadget Inc.,89.99,149.99,15,67,4.6
+PROD-242,Wardrobe Elite 242,Furniture,HomeStyle Co.,119.99,199.99,10,45,4.3
+PROD-243,Blouse Premium 243,Clothing,FashionCo Ltd.,26.99,44.99,40,189,4.6
+PROD-244,Helmet Deluxe 244,Sports,SportLife Corp.,35.99,59.99,30,156,4.5
+PROD-245,Laundry Basket Standard 245,Home Goods,HomeStyle Co.,14.99,24.99,55,234,4.4
+PROD-246,History Book Basic 246,Books,BookWorld,13.99,23.32,55,278,4.7
+PROD-247,Toner Advanced 247,Beauty,Cosmetics Central,19.99,33.32,50,234,4.5
+PROD-248,Science Kit Ultra 248,Toys,Toy World,29.99,49.99,35,167,4.4
+PROD-249,Car Cover Max 249,Automotive,AutoParts Direct,41.99,69.99,25,134,4.6
+PROD-250,Pendant Lite 250,Jewelry,Jewelry Masters,17.99,29.99,50,178,4.8
+PROD-251,Fitness Tracker Pro 251,Health,HealthPlus,47.99,79.99,35,156,4.5
+PROD-252,Vegetables Elite 252,Grocery,Grocery Giant,4.99,8.32,130,567,4.3
+PROD-253,Tape Premium 253,Office Supplies,OfficeWorks,5.99,9.99,75,345,4.4
+PROD-254,Lizard Food Deluxe 254,Pet Supplies,Pet Paradise,10.49,17.49,45,234,4.6
+PROD-255,Stroller Standard 255,Baby Products,Baby Care Co.,119.99,199.99,8,34,4.7
+PROD-256,Tape Measure Basic 256,Tools,Tool Time,8.99,14.99,65,278,4.3
+PROD-257,Cello Advanced 257,Music,Music World,359.99,599.99,4,16,4.8
+PROD-258,Thriller Ultra 258,Movies,Movie Mania,10.49,17.49,60,289,4.4
+PROD-259,Gaming Keyboard Max 259,Video Games,Game Zone,41.99,69.99,35,167,4.6
+PROD-260,Accounting Lite 260,Software,Software Solutions,59.99,99.99,25,134,4.5
+PROD-261,Blender Pro 261,Appliances,Appliance Pro,53.99,89.99,20,89,4.7
+PROD-262,Fishing Rod Elite 262,Outdoor,Outdoor Living,35.99,59.99,25,145,4.4
+PROD-263,Garden Hose Premium 263,Gardening,Garden Glory,17.99,29.99,40,189,4.3
+PROD-264,Pull-Up Bar Deluxe 264,Fitness,Fitness First,23.99,39.99,45,178,4.5
+PROD-265,Charcoal Standard 265,Art Supplies,Artistic Creations,8.99,14.99,70,234,4.6
+PROD-266,Buttons Basic 266,Craft Materials,Craft Corner,3.59,5.99,100,567,4.4
+PROD-267,Streamers Advanced 267,Party Supplies,Party Time,8.99,14.99,65,278,4.3
+PROD-268,Generator Ultra 268,Electrical,Electrical Experts,179.99,299.99,6,23,4.6
+PROD-269,Water Filter Max 269,Plumbing,Plumbing Pros,29.99,49.99,35,156,4.4
+PROD-270,Wood Glue Lite 270,Hardware,Hardware Hub,6.99,11.65,95,456,4.2
+PROD-271,Drone Pro 271,Electronics,Global Supplies,149.99,249.99,12,45,4.5
+PROD-272,Bench Elite 272,Furniture,OfficeWorks,41.99,69.99,20,98,4.3
+PROD-273,Suit Premium 273,Clothing,Premium Brands,89.99,149.99,20,78,4.6
+PROD-274,Gloves Deluxe 274,Sports,Fitness First,14.99,24.99,50,234,4.5
+PROD-275,Trash Can Standard 275,Home Goods,Quality Goods Co.,23.99,39.99,35,167,4.4
+PROD-276,Art Book Basic 276,Books,BookWorld,18.99,31.65,45,234,4.7
+PROD-277,Makeup Brushes Advanced 277,Beauty,Cosmetics Central,26.99,44.99,40,189,4.5
+PROD-278,Water Gun Ultra 278,Toys,Toy World,11.99,19.99,55,198,4.4
+PROD-279,Seat Cover Max 279,Automotive,AutoParts Direct,29.99,49.99,30,156,4.6
+PROD-280,Body Chain Lite 280,Jewelry,Jewelry Masters,23.99,39.99,45,167,4.8
+PROD-281,Scale Pro 281,Health,HealthPlus,17.99,29.99,55,234,4.5
+PROD-282,Meat Elite 282,Grocery,Grocery Giant,8.99,14.98,90,456,4.3
+PROD-283,Ruler Premium 283,Office Supplies,OfficeWorks,3.99,6.65,100,567,4.4
+PROD-284,Turtle Food Deluxe 284,Pet Supplies,Pet Paradise,9.99,16.65,50,234,4.6
+PROD-285,Baby Gate Standard 285,Baby Products,Baby Care Co.,35.99,59.99,30,145,4.7
+PROD-286,Chisel Basic 286,Tools,Tool Time,12.99,21.65,50,234,4.3
+PROD-287,Harp Advanced 287,Music,Music World,479.99,799.99,3,12,4.8
+PROD-288,Drama Ultra 288,Movies,Movie Mania,9.99,16.65,70,312,4.4
+PROD-289,Gaming Chair Max 289,Video Games,Game Zone,119.99,199.99,15,67,4.6
+PROD-290,Programming Lite 290,Software,Software Solutions,71.99,119.99,20,89,4.5
+PROD-291,Vacuum Pro 291,Appliances,Appliance Pro,89.99,149.99,12,45,4.7
+PROD-292,Compass Elite 292,Outdoor,Outdoor Living,14.99,24.99,55,234,4.4
+PROD-293,Pruning Shears Premium 293,Gardening,Garden Glory,19.99,33.32,40,178,4.3
+PROD-294,Medicine Ball Deluxe 294,Fitness,Fitness First,35.99,59.99,30,156,4.5
+PROD-295,Ink Standard 295,Art Supplies,Artistic Creations,11.99,19.99,65,278,4.6
+PROD-296,Sequins Basic 296,Craft Materials,Craft Corner,6.99,11.65,85,456,4.4
+PROD-297,Noisemakers Advanced 297,Party Supplies,Party Time,7.49,12.49,75,345,4.3
+PROD-298,Solar Panel Ultra 298,Electrical,Electrical Experts,119.99,199.99,8,34,4.6
+PROD-299,Garbage Disposal Max 299,Plumbing,Plumbing Pros,65.99,109.99,15,78,4.4
+PROD-300,Caulk Lite 300,Hardware,Hardware Hub,5.99,9.99,105,456,4.2
+PROD-301,Router Pro 301,Electronics,TechGadget Inc.,59.99,99.99,18,56,4.6
+PROD-302,Dresser Elite 302,Furniture,HomeStyle Co.,89.99,149.99,12,45,4.3
+PROD-303,Sweatpants Premium 303,Clothing,FashionCo Ltd.,23.99,39.99,45,234,4.6
+PROD-304,Volleyball Deluxe 304,Sports,SportLife Corp.,19.99,33.32,40,178,4.5
+PROD-305,Broom Standard 305,Home Goods,HomeStyle Co.,11.99,19.99,60,267,4.4
+PROD-306,Poetry Book Basic 306,Books,BookWorld,10.99,18.32,60,289,4.7
+PROD-307,Nail Polish Advanced 307,Beauty,Cosmetics Central,8.99,14.99,70,345,4.5
+PROD-308,Kite Ultra 308,Toys,Toy World,14.99,24.99,45,189,4.4
+PROD-309,Floor Mat Max 309,Automotive,AutoParts Direct,35.99,59.99,25,145,4.6
+PROD-310,Hair Clip Lite 310,Jewelry,Jewelry Masters,8.99,14.99,75,345,4.8
+PROD-311,Walker Pro 311,Health,HealthPlus,41.99,69.99,25,134,4.5
+PROD-312,Frozen Food Elite 312,Grocery,Grocery Giant,6.99,11.65,100,456,4.3
+PROD-313,Sticky Notes Premium 313,Office Supplies,OfficeWorks,4.49,7.49,90,456,4.4
+PROD-314,Small Animal Cage Deluxe 314,Pet Supplies,Pet Paradise,29.99,49.99,30,156,4.6
+PROD-315,Baby Swing Standard 315,Baby Products,Baby Care Co.,65.99,109.99,20,89,4.7
+PROD-316,Sander Basic 316,Tools,Tool Time,35.99,59.99,25,134,4.3
+PROD-317,Keyboard Advanced 317,Music,Music World,149.99,249.99,8,34,4.8
+PROD-318,Fantasy Ultra 318,Movies,Movie Mania,11.99,19.99,65,289,4.4
+PROD-319,Gaming Desk Max 319,Video Games,Game Zone,89.99,149.99,15,67,4.6
+PROD-320,Web Design Lite 320,Software,Software Solutions,47.99,79.99,30,156,4.5
+PROD-321,Air Purifier Pro 321,Appliances,Appliance Pro,119.99,199.99,10,45,4.7
+PROD-322,Kayak Elite 322,Outdoor,Outdoor Living,299.99,499.99,4,16,4.4
+PROD-323,Wheelbarrow Premium 323,Gardening,Garden Glory,53.99,89.99,18,67,4.3
+PROD-324,Step Platform Deluxe 324,Fitness,Fitness First,29.99,49.99,35,167,4.5
+PROD-325,Printmaking Standard 325,Art Supplies,Artistic Creations,17.99,29.99,50,189,4.6
+PROD-326,Pom Poms Basic 326,Craft Materials,Craft Corner,5.99,9.99,90,456,4.4
+PROD-327,Party Plates Advanced 327,Party Supplies,Party Time,8.99,14.99,70,345,4.3
+PROD-328,Voltage Tester Ultra 328,Electrical,Electrical Experts,17.99,29.99,45,189,4.6
+PROD-329,Bathroom Sink Max 329,Plumbing,Plumbing Pros,89.99,149.99,10,45,4.4
+PROD-330,Wood Stain Lite 330,Hardware,Hardware Hub,9.99,16.65,85,456,4.2
+PROD-331,Smart Thermostat Pro 331,Electronics,Global Supplies,89.99,149.99,15,67,4.5
+PROD-332,Bar Stool Elite 332,Furniture,OfficeWorks,35.99,59.99,25,145,4.3
+PROD-333,Swimsuit Premium 333,Clothing,Premium Brands,29.99,49.99,35,167,4.6
+PROD-334,Badminton Set Deluxe 334,Sports,Fitness First,35.99,59.99,30,156,4.5
+PROD-335,Mop Standard 335,Home Goods,Quality Goods Co.,14.99,24.99,55,234,4.4
+PROD-336,Comic Book Basic 336,Books,BookWorld,7.99,13.32,75,345,4.7
+PROD-337,Serum Advanced 337,Beauty,Cosmetics Central,29.99,49.99,45,189,4.5
+PROD-338,Educational Toy Ultra 338,Toys,Toy World,23.99,39.99,40,178,4.4
+PROD-339,GPS Navigator Max 339,Automotive,AutoParts Direct,59.99,99.99,20,89,4.6
+PROD-340,Tiara Lite 340,Jewelry,Jewelry Masters,35.99,59.99,35,156,4.8
+PROD-341,Pulse Oximeter Pro 341,Health,HealthPlus,23.99,39.99,50,189,4.5
+PROD-342,Bakery Elite 342,Grocery,Grocery Giant,5.99,9.98,110,567,4.3
+PROD-343,Label Maker Premium 343,Office Supplies,OfficeWorks,29.99,49.99,35,167,4.4
+PROD-344,Reptile Heat Lamp Deluxe 344,Pet Supplies,Pet Paradise,17.99,29.99,40,178,4.6
+PROD-345,Baby Bathtub Standard 345,Baby Products,Baby Care Co.,23.99,39.99,40,189,4.7
+PROD-346,Mallet Basic 346,Tools,Tool Time,14.99,24.99,50,234,4.3
+PROD-347,Microphone Advanced 347,Music,Music World,59.99,99.99,18,56,4.8
+PROD-348,Mystery Ultra 348,Movies,Movie Mania,10.49,17.49,65,289,4.4
+PROD-349,Gaming Monitor Max 349,Video Games,Game Zone,179.99,299.99,10,45,4.6
+PROD-350,Spreadsheet Lite 350,Software,Software Solutions,35.99,59.99,35,156,4.5
+PROD-351,Food Processor Pro 351,Appliances,Appliance Pro,71.99,119.99,15,67,4.7
+PROD-352,Binoculars Elite 352,Outdoor,Outdoor Living,41.99,69.99,25,134,4.4
+PROD-353,Garden Gloves Premium 353,Gardening,Garden Glory,8.99,14.99,65,278,4.3
+PROD-354,Yoga Strap Deluxe 354,Fitness,Fitness First,11.99,19.99,60,234,4.5
+PROD-355,Print Paper Standard 355,Art Supplies,Artistic Creations,12.99,21.65,55,267,4.6
+PROD-356,Feathers Basic 356,Craft Materials,Craft Corner,7.49,12.49,80,345,4.4
+PROD-357,Party Cups Advanced 357,Party Supplies,Party Time,6.99,11.65,80,456,4.3
+PROD-358,Surge Protector Ultra 358,Electrical,Electrical Experts,14.99,24.99,50,234,4.6
+PROD-359,Toilet Paper Max 359,Plumbing,Plumbing Pros,8.99,14.99,70,345,4.4
+PROD-360,Wall Anchor Lite 360,Hardware,Hardware Hub,4.99,8.32,115,567,4.2
+PROD-361,Fitness Watch Pro 361,Electronics,TechGadget Inc.,119.99,199.99,15,67,4.6
+PROD-362,Bookshelf Lite 362,Furniture,HomeStyle Co.,47.99,79.99,20,98,4.3
+PROD-363,Hoodie Premium 363,Clothing,FashionCo Ltd.,29.99,49.99,40,189,4.6
+PROD-364,Archery Set Deluxe 364,Sports,SportLife Corp.,59.99,99.99,20,89,4.5
+PROD-365,Organizer Standard 365,Home Goods,HomeStyle Co.,19.99,33.32,45,178,4.4
+PROD-366,Atlas Basic 366,Books,BookWorld,15.99,26.65,50,267,4.7
+PROD-367,Cleanser Advanced 367,Beauty,Cosmetics Central,13.99,23.32,60,234,4.5
+PROD-368,Musical Toy Ultra 368,Toys,Toy World,19.99,33.32,45,189,4.4
+PROD-369,Car Charger Max 369,Automotive,AutoParts Direct,17.99,29.99,40,178,4.6
+PROD-370,Nose Ring Lite 370,Jewelry,Jewelry Masters,14.99,24.99,60,189,4.8
+PROD-371,Walker Rollator Pro 371,Health,HealthPlus,53.99,89.99,25,134,4.5
+PROD-372,Canned Goods Elite 372,Grocery,Grocery Giant,3.99,6.65,120,678,4.3
+PROD-373,Desk Organizer Premium 373,Office Supplies,OfficeWorks,17.99,29.99,40,189,4.4
+PROD-374,Bird Cage Deluxe 374,Pet Supplies,Pet Paradise,41.99,69.99,25,145,4.6
+PROD-375,Baby Food Standard 375,Baby Products,Baby Care Co.,8.99,14.99,80,456,4.7
+PROD-376,File Set Basic 376,Tools,Tool Time,11.99,19.99,55,234,4.3
+PROD-377,DJ Controller Advanced 377,Music,Music World,119.99,199.99,12,45,4.8
+PROD-378,Documentary Film Ultra 378,Movies,Movie Mania,12.99,21.65,60,278,4.4
+PROD-379,Gaming Headset Max 379,Video Games,Game Zone,47.99,79.99,35,167,4.6
+PROD-380,Presentation Lite 380,Software,Software Solutions,41.99,69.99,30,156,4.5
+PROD-381,Stand Mixer Pro 381,Appliances,Appliance Pro,89.99,149.99,12,45,4.7
+PROD-382,Camping Chair Elite 382,Outdoor,Outdoor Living,29.99,49.99,30,156,4.4
+PROD-383,Soil Tester Premium 383,Gardening,Garden Glory,23.99,39.99,35,167,4.3
+PROD-384,Ankle Weights Deluxe 384,Fitness,Fitness First,17.99,29.99,50,189,4.5
+PROD-385,Calligraphy Set Standard 385,Art Supplies,Artistic Creations,26.99,44.99,40,178,4.6
+PROD-386,Origami Paper Basic 386,Craft Materials,Craft Corner,8.99,14.99,75,345,4.4
+PROD-387,Party Banner Advanced 387,Party Supplies,Party Time,9.99,16.65,65,278,4.3
+PROD-388,Transformer Ultra 388,Electrical,Electrical Experts,35.99,59.99,30,156,4.6
+PROD-389,Drain Cleaner Max 389,Plumbing,Plumbing Pros,11.99,19.99,60,234,4.4
+PROD-390,Wood Filler Lite 390,Hardware,Hardware Hub,6.99,11.65,95,456,4.2
+PROD-391,E-Reader Pro 391,Electronics,Global Supplies,89.99,149.99,15,67,4.5
+PROD-392,Accent Chair Elite 392,Furniture,OfficeWorks,59.99,99.99,18,56,4.3
+PROD-393,Scarf Premium 393,Clothing,Premium Brands,17.99,29.99,50,234,4.6
+PROD-394,Ping Pong Set Deluxe 394,Sports,Fitness First,47.99,79.99,25,134,4.5
+PROD-395,Plant Pot Standard 395,Home Goods,Quality Goods Co.,14.99,24.99,60,234,4.4
+PROD-396,Language Book Basic 396,Books,BookWorld,16.99,28.32,55,278,4.7
+PROD-397,Face Cream Advanced 397,Beauty,Cosmetics Central,24.99,41.65,50,189,4.5
+PROD-398,Magic Kit Ultra 398,Toys,Toy World,29.99,49.99,35,167,4.4
+PROD-399,Jump Starter Max 399,Automotive,AutoParts Direct,41.99,69.99,25,145,4.6
+PROD-400,Toe Ring Lite 400,Jewelry,Jewelry Masters,11.99,19.99,70,267,4.8
+PROD-401,Heating Pad Pro 401,Health,HealthPlus,19.99,33.32,45,189,4.5
+PROD-402,Spices Elite 402,Grocery,Grocery Giant,7.99,13.32,85,456,4.3
+PROD-403,Paper Shredder Premium 403,Office Supplies,OfficeWorks,35.99,59.99,25,134,4.4
+PROD-404,Fish Tank Deluxe 404,Pet Supplies,Pet Paradise,47.99,79.99,20,98,4.6
+PROD-405,Baby Shoes Standard 405,Baby Products,Baby Care Co.,14.99,24.99,65,278,4.7
+PROD-406,Grinder Basic 406,Tools,Tool Time,23.99,39.99,40,189,4.3
+PROD-407,Mixer Advanced 407,Music,Music World,89.99,149.99,12,45,4.8
+PROD-408,Western Ultra 408,Movies,Movie Mania,9.99,16.65,70,312,4.4
+PROD-409,Gaming Laptop Max 409,Video Games,Game Zone,899.99,1499.99,3,12,4.9
+PROD-410,Database Pro Lite 410,Software,Software Solutions,89.99,149.99,18,56,4.5
+PROD-411,Dehumidifier Pro 411,Appliances,Appliance Pro,119.99,199.99,10,45,4.7
+PROD-412,Hiking Pack Elite 412,Outdoor,Outdoor Living,65.99,109.99,25,112,4.4
+PROD-413,Plant Food Premium 413,Gardening,Garden Glory,12.99,21.65,60,234,4.3
+PROD-414,Push-Up Bars Deluxe 414,Fitness,Fitness First,14.99,24.99,55,234,4.5
+PROD-415,Sculpting Tools Standard 415,Art Supplies,Artistic Creations,19.99,33.32,45,189,4.6
+PROD-416,Knitting Needles Basic 416,Craft Materials,Craft Corner,9.99,16.65,70,345,4.4
+PROD-417,Party Poppers Advanced 417,Party Supplies,Party Time,7.99,13.32,75,345,4.3
+PROD-418,Battery Backup Ultra 418,Electrical,Electrical Experts,59.99,99.99,20,89,4.6
+PROD-419,Water Softener Max 419,Plumbing,Plumbing Pros,149.99,249.99,8,34,4.4
+PROD-420,Concrete Mix Lite 420,Hardware,Hardware Hub,8.99,14.99,90,456,4.2
+PROD-421,Action Camera Pro 421,Electronics,TechGadget Inc.,119.99,199.99,15,67,4.6
+PROD-422,TV Stand Elite 422,Furniture,HomeStyle Co.,71.99,119.99,15,78,4.3
+PROD-423,Socks Premium 423,Clothing,FashionCo Ltd.,8.99,14.99,100,567,4.6
+PROD-424,Hockey Stick Deluxe 424,Sports,SportLife Corp.,41.99,69.99,30,156,4.5
+PROD-425,Wall Clock Standard 425,Home Goods,HomeStyle Co.,23.99,39.99,35,167,4.4
+PROD-426,Math Book Basic 426,Books,BookWorld,18.99,31.65,50,267,4.7
+PROD-427,Eye Cream Advanced 427,Beauty,Cosmetics Central,26.99,44.99,45,189,4.5
+PROD-428,Stuffed Animal Ultra 428,Toys,Toy World,16.99,28.32,50,198,4.4
+PROD-429,Tool Kit Max 429,Automotive,AutoParts Direct,35.99,59.99,30,156,4.6
+PROD-430,Charm Lite 430,Jewelry,Jewelry Masters,19.99,33.32,55,178,4.8
+PROD-431,Compression Socks Pro 431,Health,HealthPlus,14.99,24.99,60,234,4.5
+PROD-432,Oils Elite 432,Grocery,Grocery Giant,9.99,16.65,95,456,4.3
+PROD-433,Whiteboard Premium 433,Office Supplies,OfficeWorks,29.99,49.99,30,156,4.4
+PROD-434,Small Animal Bed Deluxe 434,Pet Supplies,Pet Paradise,17.99,29.99,45,189,4.6
+PROD-435,Baby Blanket Standard 435,Baby Products,Baby Care Co.,19.99,33.32,55,234,4.7
+PROD-436,Clamp Basic 436,Tools,Tool Time,9.99,16.65,65,278,4.3
+PROD-437,Amplifier Advanced 437,Music,Music World,119.99,199.99,12,45,4.8
+PROD-438,Biography Ultra 438,Movies,Movie Mania,11.99,19.99,65,289,4.4
+PROD-439,Gaming Microphone Max 439,Video Games,Game Zone,35.99,59.99,35,167,4.6
+PROD-440,Project Management Lite 440,Software,Software Solutions,53.99,89.99,25,134,4.5
+PROD-441,Slow Cooker Pro 441,Appliances,Appliance Pro,41.99,69.99,20,89,4.7
+PROD-442,Sleeping Pad Elite 442,Outdoor,Outdoor Living,29.99,49.99,30,156,4.4
+PROD-443,Garden Decor Premium 443,Gardening,Garden Glory,19.99,33.32,40,178,4.3
+PROD-444,Yoga Wheel Deluxe 444,Fitness,Fitness First,17.99,29.99,50,189,4.5
+PROD-445,Airbrush Kit Standard 445,Art Supplies,Artistic Creations,35.99,59.99,30,156,4.6
+PROD-446,Cross Stitch Basic 446,Craft Materials,Craft Corner,11.99,19.99,65,278,4.4
+PROD-447,Party Masks Advanced 447,Party Supplies,Party Time,8.99,14.99,70,345,4.3
+PROD-448,Smart Plug Ultra 448,Electrical,Electrical Experts,17.99,29.99,45,189,4.6
+PROD-449,Water Pump Max 449,Plumbing,Plumbing Pros,35.99,59.99,25,145,4.4
+PROD-450,Paint Lite 450,Hardware,Hardware Hub,12.99,21.65,80,456,4.2
+PROD-451,VR Headset Pro 451,Electronics,Global Supplies,179.99,299.99,10,45,4.5
+PROD-452,Patio Set Elite 452,Furniture,OfficeWorks,299.99,499.99,5,18,4.3
+PROD-453,Tie Premium 453,Clothing,Premium Brands,23.99,39.99,45,234,4.6
+PROD-454,Camping Deluxe 454,Sports,Fitness First,89.99,149.99,15,78,4.5
+PROD-455,Photo Frame Standard 455,Home Goods,Quality Goods Co.,14.99,24.99,55,234,4.4
+PROD-456,Children's Book Basic 456,Books,BookWorld,9.99,16.65,70,345,4.7
+PROD-457,Hair Dryer Advanced 457,Beauty,Cosmetics Central,29.99,49.99,35,167,4.5
+PROD-458,Drone Toy Ultra 458,Toys,Toy World,35.99,59.99,30,156,4.4
+PROD-459,Car Vacuum Max 459,Automotive,AutoParts Direct,23.99,39.99,40,178,4.6
+PROD-460,Brooch Lite 460,Jewelry,Jewelry Masters,26.99,44.99,45,167,4.8
+PROD-461,Compression Wrap Pro 461,Health,HealthPlus,11.99,19.99,65,278,4.5
+PROD-462,Tea Elite 462,Grocery,Grocery Giant,6.99,11.65,100,456,4.3
+PROD-463,Business Cards Premium 463,Office Supplies,OfficeWorks,14.99,24.99,60,234,4.4
+PROD-464,Aquarium Filter Deluxe 464,Pet Supplies,Pet Paradise,23.99,39.99,35,167,4.6
+PROD-465,Baby Soap Standard 465,Baby Products,Baby Care Co.,7.99,13.32,85,456,4.7
+PROD-466,Stud Finder Basic 466,Tools,Tool Time,12.99,21.65,55,234,4.3
+PROD-467,Metronome Advanced 467,Music,Music World,17.99,29.99,45,189,4.8
+PROD-468,Musical Ultra 468,Movies,Movie Mania,10.49,17.49,65,289,4.4
+PROD-469,Gaming Speakers Max 469,Video Games,Game Zone,47.99,79.99,35,167,4.6
+PROD-470,Email Marketing Lite 470,Software,Software Solutions,35.99,59.99,35,156,4.5
+PROD-471,Food Dehydrator Pro 471,Appliances,Appliance Pro,59.99,99.99,18,56,4.7
+PROD-472,Camp Table Elite 472,Outdoor,Outdoor Living,41.99,69.99,25,134,4.4
+PROD-473,Garden Kneeler Premium 473,Gardening,Garden Glory,14.99,24.99,50,234,4.3
+PROD-474,Weight Bench Deluxe 474,Fitness,Fitness First,89.99,149.99,12,45,4.5
+PROD-475,Pottery Wheel Standard 475,Art Supplies,Artistic Creations,71.99,119.99,15,67,4.6
+PROD-476,Jewelry Making Basic 476,Craft Materials,Craft Corner,19.99,33.32,55,234,4.4
+PROD-477,Party Games Advanced 477,Party Supplies,Party Time,11.99,19.99,60,278,4.3
+PROD-478,USB Hub Ultra 478,Electrical,Electrical Experts,14.99,24.99,50,234,4.6
+PROD-479,Water Dispenser Max 479,Plumbing,Plumbing Pros,47.99,79.99,20,89,4.4
+PROD-480,Grout Lite 480,Hardware,Hardware Hub,8.99,14.99,95,456,4.2
+PROD-481,Streaming Device Pro 481,Electronics,TechGadget Inc.,35.99,59.99,25,145,4.6
+PROD-482,Bookshelf Unit Elite 482,Furniture,HomeStyle Co.,89.99,149.99,12,45,4.3
+PROD-483,Wallet Premium 483,Clothing,FashionCo Ltd.,29.99,49.99,40,189,4.6
+PROD-484,Rugby Ball Deluxe 484,Sports,SportLife Corp.,26.99,44.99,35,167,4.5
+PROD-485,Desk Organizer Standard 485,Home Goods,HomeStyle Co.,19.99,33.32,45,178,4.4
+PROD-486,Philosophy Book Basic 486,Books,BookWorld,13.99,23.32,60,278,4.7
+PROD-487,Hair Serum Advanced 487,Beauty,Cosmetics Central,19.99,33.32,55,234,4.5
+PROD-488,Construction Set Ultra 488,Toys,Toy World,35.99,59.99,30,156,4.4
+PROD-489,Car Polish Max 489,Automotive,AutoParts Direct,17.99,29.99,40,178,4.6
+PROD-490,Cuff Bracelet Lite 490,Jewelry,Jewelry Masters,23.99,39.99,50,167,4.8
+PROD-491,Hot Cold Pack Pro 491,Health,HealthPlus,12.99,21.65,60,234,4.5
+PROD-492,Coffee Elite 492,Grocery,Grocery Giant,8.99,14.98,105,456,4.3
+PROD-493,Desk Lamp Premium 493,Office Supplies,OfficeWorks,23.99,39.99,35,167,4.4
+PROD-494,Dog Bed Deluxe 494,Pet Supplies,Pet Paradise,35.99,59.99,25,145,4.6
+PROD-495,Baby Lotion Standard 495,Baby Products,Baby Care Co.,9.99,16.65,75,345,4.7
+PROD-496,Utility Knife Basic 496,Tools,Tool Time,8.99,14.99,70,278,4.3
+PROD-497,Music Stand Advanced 497,Music,Music World,29.99,49.99,35,167,4.8
+PROD-498,Animation Ultra 498,Movies,Movie Mania,11.99,19.99,65,289,4.4
+PROD-499,Gaming Router Max 499,Video Games,Game Zone,89.99,149.99,15,67,4.6
+PROD-500,Calendar Lite 500,Software,Software Solutions,17.99,29.99,45,189,4.5

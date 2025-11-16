@@ -77,12 +77,26 @@
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.3/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">2.4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+          <span style="color:#d32f2f;">Index & Conditional Columns</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Calculated Column Best Practices</span></li>
+          <li><span style="color:#388e3c;">Grouping & Aggregating</span></li>
+          <li><span style="color:#fbc02d;">Pivoting & Unpivoting</span></li>
+          <li><span style="color:#d32f2f;">Merging Queries</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.4/">Self Exercises</a></span>
+      </td>
+    </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
 <blockquote>
-  <b>Note:</b> This table tracks your Power BI learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
+  <b>Note:</b> This table tracks my Power BI learning progress, including lab work and self exercises for each topic. I keep updating as I complete more sections!
 </blockquote>
 <br>
 <blockquote>

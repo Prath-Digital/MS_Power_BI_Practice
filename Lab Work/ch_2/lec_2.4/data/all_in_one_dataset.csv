@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Category,Sales,CustomerType,Quantity,Price,Revenue,Cost,Department,Salary,City,ProductType,Month,Orders,Date,Region,EmployeeID,Attendance
+101,Arun,Shah,Electronics,7200,Premium,3,2500,7500,5000,Sales,45000,Surat,Laptop,Jan,5,2025-01-05,West,201,Present
+102,Meera,Patel,Furniture,4500,Regular,2,2200,5000,3500,HR,52000,Mumbai,Table,Feb,3,2025-02-12,West,202,Absent
+103,John,Doe,Electronics,1200,Premium,5,300,1500,900,Sales,48000,Delhi,Phone,Mar,4,2025-03-20,North,203,Present
+104,Priya,Nair,Grocery,6200,Regular,1,6200,6200,4000,Finance,60000,Surat,Vegetables,Apr,2,2025-04-15,South,204,Present
+105,Karan,Singh,Grocery,800,Premium,4,200,800,500,Sales,47000,Chennai,Snacks,May,1,2025-05-18,South,205,Absent
+106,Neha,Kapoor,Furniture,5400,Premium,2,2700,5400,3000,IT,68000,Mumbai,Chair,Jun,6,2025-06-22,West,206,Present
+107,David,Smith,Electronics,3000,Regular,3,1000,3000,2000,Operations,55000,Delhi,Headphones,Jul,2,2025-07-10,North,207,Present
+108,Rita,Mehta,Grocery,1500,Regular,6,250,1500,900,HR,53000,Chennai,Grains,Aug,3,2025-08-14,South,208,Present
+109,Sam,Roy,Furniture,9000,Premium,2,4500,9000,6000,Operations,51000,Surat,Sofa,Sep,8,2025-09-05,West,209,Absent
+110,Asha,Iyer,Electronics,4000,Premium,4,1000,4000,2500,Sales,62000,Delhi,Monitor,Oct,7,2025-10-19,North,210,Present
