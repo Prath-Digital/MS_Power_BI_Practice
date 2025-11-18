@@ -1,0 +1,11 @@
+ProductID,ProductName,UnitPrice,UnitsSold,Month
+1001,"Laptop 14""",52000,42,1
+1002,Wireless Mouse,650,175,1
+1003,Office Chair,4200,63,1
+1004,"LED Monitor 24""",9800,38,1
+1005,Coffee Powder 500g,250,210,1
+1006,Smartphone X20,18999,57,1
+1007,Bluetooth Speaker,2200,84,1
+1008,Steel Water Bottle,320,140,1
+1009,Running Shoes,3100,48,1
+1010,Backpack 30L,950,66,1

@@ -85,10 +85,33 @@
           <li><span style="color:#1976d2;">Calculated Column Best Practices</span></li>
           <li><span style="color:#388e3c;">Grouping & Aggregating</span></li>
           <li><span style="color:#fbc02d;">Pivoting & Unpivoting</span></li>
-          <li><span style="color:#d32f2f;">Merging Queries</span></li>
+          <li><span style="color:#7b1fa2;">Merging Queries</span></li>
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.4/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.4/">Self Exercises</a></span>
+        <br>
+        <span style="color:#ffffff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 1 Data Leverager
+        </span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">2.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+      <span style="color:#d32f2f;">Text Tools</span></span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Numerical Tools</span></li>
+          <li><span style="color:#388e3c;">Date & Time Tools</span></li>
+          <li><span style="color:#fbc02d;">Change Type with Locale</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.3/">Self Exercises</a></span>
+        <br>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 1 Data Leverager
+        </span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
