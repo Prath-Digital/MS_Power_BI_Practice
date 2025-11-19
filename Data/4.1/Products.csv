@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,SubCategory,CostPrice,SellingPrice
+1,Laptop,Electronics,Laptop Model X,15811,17659
+2,Mouse,Electronics,Mouse Model X,11552,12173
+3,Keyboard,Electronics,Keyboard Model X,2698,5229
+4,Monitor,Electronics,Monitor Model X,14092,16165
+5,USB Drive,Electronics,USB Drive Model X,9087,12072
+6,Printer,Accessories,Printer Model X,15517,17508
+7,Tablet,Accessories,Tablet Model X,9704,12494
+8,Headphones,Accessories,Headphones Model X,7928,10327

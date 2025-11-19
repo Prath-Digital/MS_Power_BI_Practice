@@ -34,6 +34,12 @@
         <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
       </td>
     </tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
     <tr style="background:#222;color:#fff;">
       <td style="padding:10px 8px;border:2px solid #fff;">2</td>
       <td style="padding:10px 8px;border:2px solid #fff;"><b>Connecting & Shaping Data</b></td>
@@ -115,6 +121,50 @@
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">3</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Pr. 1 Data Leverager</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">3.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of Pr. 1 Data Leverager</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/MS_Power_BI_PR.-1-Data-Leverager" target="_blank">Code</a></span>
+            </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Data Modelling</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">4.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+      <span style="color:#d32f2f;">Data Modeling</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Database Normalization</span></li>
+          <li><span style="color:#388e3c;">Fact & Dimension Tables</span></li>
+          <li><span style="color:#fbc02d;">Primary & Foreign Keys</span></li>
+          <li><span style="color:#7b1fa2;">Relationships vs. Merged Tables</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+  </thead>
   </tbody>
 </table>
 <hr style="background:transparent;">
