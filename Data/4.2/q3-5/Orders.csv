@@ -1,0 +1,5 @@
+OrderID,CustomerID,OrderAmount
+1,1,500
+2,1,250
+3,2,900
+4,3,300

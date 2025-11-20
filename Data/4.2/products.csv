@@ -1,0 +1,9 @@
+product_id,product_name,category,price,supplier
+1,iPhone 14,Electronics,999,Apple
+2,MacBook Pro,Electronics,1999,Apple
+3,Running Shoes,Apparel,120,Nike
+4,Coffee Maker,Home,80,KitchenAid
+5,Desk Lamp,Home,45,IKEA
+6,Yoga Mat,Sports,25,Adidas
+7,Wireless Headphones,Electronics,150,Sony
+8,Water Bottle,Sports,20,HydroFlask
