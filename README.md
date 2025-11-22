@@ -176,6 +176,29 @@
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.2/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.2/">Self Exercises</a></span>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">4.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+      <span style="color:#d32f2f;">Connecting Multiple Fact Tables</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;"></span>Filter Context & Filter Flow</li>
+          <li><span style="color:#388e3c;"></span>Bi-Directional Filters & Ambiguity</li>
+          <li><span style="color:#fbc02d;"></span>Hiding Fields from Report View</li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">4.4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+          <span style="color:#d32f2f;">Model Layouts</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Data Formats & Categories</span></li>
+          <li><span style="color:#388e3c;">Creating Hierarchies</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.4/">Self Exercises</a></span>
       </td>
     </tr>
   </thead>
