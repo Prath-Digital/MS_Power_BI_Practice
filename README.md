@@ -187,6 +187,11 @@
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
+        <br>
+        <span style="color:#000000;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 2 Data Modeler
+        </span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -199,9 +204,58 @@
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.4/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.4/">Self Exercises</a></span>
+        <br>
+        <span style="color:#ffffff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 2 Data Modeler
+        </span>
       </td>
     </tr>
-  </thead>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+      <tr style="background:#000;color:#fff;">
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+      </tr>
+    </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">5</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 2 Data Modeler</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">5.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of Pr. 2 Data Modeler</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/MS_Power_BI_PR.-2-Data-Modeler" target="_blank">Code</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+      <tr style="background:#000;color:#fff;">
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+      </tr>
+    </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">6</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>DAX Fundamentals</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">6.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+      <span style="color:#d32f2f;">Data Analysis Expressions</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">DAX vs. M Languages</span></li>
+          <li><span style="color:#388e3c;">Intro to DAX Calculated Columns</span></li>
+          <li><span style="color:#fbc02d;">Intro to DAX Measures</span></li>
+          <li><span style="color:#7b1fa2;">Implicit vs. Explicit Measures</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.1/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">

@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,Supplier,UnitCost,LaunchDate
+P101,Wireless Mouse,Electronics,TechCorp,180.0,2023-01-15
+P102,USB Keyboard,Electronics,TechCorp,89.0,2023-02-20
+P103,"Monitor 24""",Electronics,ViewMaster,320.0,2023-03-10
+P104,Laptop Stand,Accessories,ErgoDesk,550.0,2023-04-05
+P105,Webcam HD,Electronics,VisionTech,120.0,2023-05-18
+P106,Mouse Pad,Accessories,ComfortPlus,35.0,2023-06-22
+P107,Desk Lamp,Furniture,LightWorks,210.0,2023-07-30
+P108,External SSD 1TB,Electronics,DataStore,380.0,2023-08-12
+P109,Cable Organizer,Accessories,TidySpace,65.0,2023-09-05
+P110,Ergonomic Chair,Furniture,ErgoDesk,850.0,2023-10-20
+P111,Wireless Charger,Electronics,PowerPlus,150.0,2023-11-08
+P112,Standing Desk,Furniture,ErgoDesk,1100.0,2023-12-15

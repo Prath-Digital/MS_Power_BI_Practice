@@ -1,0 +1,41 @@
+CustomerID,CustomerName,City,State,Country,Segment,JoinDate
+C201,Acme Corp,New York,NY,USA,Corporate,2023-01-10
+C202,Global Tech,Miami,FL,USA,Corporate,2023-01-15
+C203,SmartSolutions,Boston,MA,USA,Small Business,2023-02-01
+C204,DataDriven Inc,Seattle,WA,USA,Corporate,2023-02-10
+C205,InnovateCo,Chicago,IL,USA,Corporate,2023-02-20
+C206,TechStart,Austin,TX,USA,Small Business,2023-03-05
+C207,FutureSoft,Portland,OR,USA,Small Business,2023-03-15
+C208,CloudWorks,San Francisco,CA,USA,Corporate,2023-03-25
+C209,DigitalFirst,Denver,CO,USA,Small Business,2023-04-01
+C210,Enterprise Solutions,Atlanta,GA,USA,Corporate,2023-04-10
+C211,BizTech,Phoenix,AZ,USA,Small Business,2023-04-20
+C212,MegaCorp,Dallas,TX,USA,Corporate,2023-05-01
+C213,StartupHub,Minneapolis,MN,USA,Small Business,2023-05-15
+C214,ProServices,Detroit,MI,USA,Corporate,2023-05-25
+C215,TechVentures,Nashville,TN,USA,Small Business,2023-06-05
+C216,BusinessPlus,Charlotte,NC,USA,Corporate,2023-06-15
+C217,LocalTech,Columbus,OH,USA,Small Business,2023-06-25
+C218,GlobalConnect,Indianapolis,IN,USA,Small Business,2023-07-05
+C219,CityWorks,Philadelphia,PA,USA,Corporate,2023-07-15
+C220,PremiumTech,San Diego,CA,USA,Corporate,2023-07-25
+C221,SmallBiz Pro,Milwaukee,WI,USA,Small Business,2023-08-01
+C222,TechHub,Kansas City,MO,USA,Small Business,2023-08-10
+C223,Enterprise Group,Las Vegas,NV,USA,Corporate,2023-08-20
+C224,InnovateNow,Salt Lake City,UT,USA,Corporate,2023-08-30
+C225,DigitalAge,Raleigh,NC,USA,Small Business,2023-09-05
+C226,CloudFirst,Richmond,VA,USA,Corporate,2023-09-15
+C227,FutureBiz,Louisville,KY,USA,Small Business,2023-09-25
+C228,TechSavvy,Memphis,TN,USA,Small Business,2023-10-01
+C229,ProConnect,Oklahoma City,OK,USA,Small Business,2023-10-10
+C230,MegaEnterprise,Jacksonville,FL,USA,Corporate,2023-10-20
+C231,EliteTech,San Antonio,TX,USA,Corporate,2023-10-30
+C232,BizGrowth,Baltimore,MD,USA,Small Business,2023-11-05
+C233,TechLeaders,Omaha,NE,USA,Small Business,2023-11-15
+C234,GlobalBiz,Albuquerque,NM,USA,Corporate,2023-11-25
+C235,InnovateTech,Tucson,AZ,USA,Corporate,2023-12-01
+C236,SmartBusiness,Fresno,CA,USA,Small Business,2023-12-10
+C237,PremiumSolutions,Sacramento,CA,USA,Corporate,2023-12-20
+C238,TechAdvance,Mesa,AZ,USA,Corporate,2024-01-05
+C239,DigitalPro,Colorado Springs,CO,USA,Small Business,2024-01-15
+C240,CloudTech,Virginia Beach,VA,USA,Small Business,2024-01-25
