@@ -103,16 +103,18 @@
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #000;">2.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">2.5</td>
       <td style="padding:10px 8px;border:2px solid #000;">
-      <span style="color:#d32f2f;">Text Tools</span></span>
+      <span style="color:#d32f2f;">Appending Queries</span></span>
         <ul style="margin:0;padding-left:18px;">
-          <li><span style="color:#1976d2;">Numerical Tools</span></li>
-          <li><span style="color:#388e3c;">Date & Time Tools</span></li>
-          <li><span style="color:#fbc02d;">Change Type with Locale</span></li>
+          <li><span style="color:#1976d2;">Appending Files from a Folder</span></li>
+          <li><span style="color:#388e3c;">Data Source Settings</span></li>
+          <li><span style="color:#fbc02d;">Data Source Parameters</span></li>
+          <li><span style="color:#7b1fa2;">Refreshing Queries</span></li>
+          <li><span style="color:#d32f2f;">Importing Excel Models</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.5/">Self Exercises</a></span>
         <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -294,7 +296,86 @@
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.4/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.4/">Self Exercises</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 3 DAX Depo
+        </span>
       </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">6.5</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+          <span style="color:#d32f2f;">The CALCULATE Function</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">DAX Measure Totals</span></li>
+          <li><span style="color:#388e3c;">The ALL Function</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.5/">Self Exercises</a></span>
+        <br>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 3 DAX Depo
+        </span>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">6.6</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+          <span style="color:#d32f2f;">The FILTER Function</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Iterator (X) Functions</span></li>
+          <li><span style="color:#388e3c;">Time Intelligence Patterns</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.6/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.6/">Self Exercises</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 3 DAX Depo
+        </span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">7</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 3 DAX Depo</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">7.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of Pr. 3 DAX Depo</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/MS_Power_BI_PR.-3-DAX-Depo" target="_blank">Code</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">8</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Assignment</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">8.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/book.png" style="vertical-align:middle;margin-right:4px;">Assignment</span></li>
+          <li><span style="color:#222;font-weight:bold;"><img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">PR. Final Project</span></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
