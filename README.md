@@ -376,6 +376,31 @@
         </ul>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">9</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Visualizing Data With Report</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">9.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+      <span style="color:#d32f2f;">The Key Questions</span>
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Dashboard Design Framework</span></li>
+          <li><span style="color:#388e3c;">Sketching the Dashboard Layout</span></li>
+          <li><span style="color:#fbc02d;">Adding Report Pages & Objects</span></li>
+          <li><span style="color:#7b1fa2;">Naming & Grouping Objects</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_9/lec_9.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_9/lec_9.1/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
