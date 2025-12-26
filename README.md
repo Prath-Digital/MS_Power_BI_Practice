@@ -7,6 +7,7 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
 ---
 
 ## Quick Links 🔗
+
 - 📁 Project root: `MS_Power_BI_Practice`
 - 📂 Data samples: `Data/9.1.xlsx` (workbook with multiple sheets)
 - 📝 Key notes: `Self Exercises/ch_6/lec_6.4/all_in_one.md` (DAX Q&A)
@@ -15,6 +16,7 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
 ---
 
 ## Contents (short) 🧭
+
 - Generated sample workbook: `Data/9.1.xlsx` — contains `Customers`, `Products`, `Dates`, `Sales` sheets.
 - Calendar: `Data/4.4/Calendar_Unique.csv` — enriched date attributes for time-intelligence.
 - DAX reference: `Self Exercises/ch_6/lec_6.4/all_in_one.md` — interview-style Q&A for common DAX functions.
@@ -22,6 +24,7 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
 ---
 
 ## Folder structure (click to expand) 📂👇
+
 <details>
   <summary>📊 <strong>MS_Power_BI_Practice/</strong></summary>
 
@@ -40,9 +43,9 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Completed lab tasks and exercises.)
   </details>
 
-  &nbsp;&nbsp;📘 <strong>README.md</strong> — Overview file
-</details>
+&nbsp;&nbsp;📘 <strong>README.md</strong> — Overview file
 
+</details>
 
 ---
 
@@ -61,6 +64,7 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
 - Use `CONCATENATEX` with caution on very large sets; consider pre-aggregation or sampling for performance testing.
 
 ---
+
 <details>
   <summary><h2>📊 Power BI Lab & Practice Progress <code>(click to expand)</code></h2></summary>
   <img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-f2c811?logo=googleanalytics&logoColor=f2c811&label=Power%20BI" alt="Power BI Lab work and Self exercises">
@@ -547,6 +551,74 @@ This README is rewritten to be concise, professional, and easy to follow. It inc
           <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_9/lec_9.7/">Self Exercises</a></span>
         </td>
       </tr>
+      <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+      <tr style="background:#000;color:#fff;">
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+        <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+      </tr>
+      <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">10</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Revision</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">10.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Revision Day - 1</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Revision/Day 1/">Work</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">10.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Revision Day - 2</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Revision/Day 1/">Work</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+    </thead>
+      <tr style="background:#222;color:#fff;">
+        <td style="padding:10px 8px;border:2px solid #fff;">11</td>
+        <td style="padding:10px 8px;border:2px solid #fff;"><b>Pr. Final Project</b></td>
+      </tr>
+      <tr style="background:#fff;color:#000;">
+        <td style="padding:10px 8px;border:2px solid #000;">11.1</td>
+        <td style="padding:10px 8px;border:2px solid #000;">
+          <ul style="margin:0;padding-left:18px;">
+            <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. Final Project Depo</span></li>
+          </ul>
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/MS_Power_BI_PR.-Final-Project">Code</a></span>
+        </td>
+      </tr>
+      <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">12</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Practical Test</b></td>
+    </tr>
+    <tr style="background: #fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">12.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/book.png" style="vertical-align:middle;margin-right:4px;">Practical Test</span></li>
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/MS_Power_BI_Practical-Exam">Code</a></span>
+        </ul>
+      </td>
+    </tr>
     </tbody>
   </table>
   <hr style="background:transparent;">
